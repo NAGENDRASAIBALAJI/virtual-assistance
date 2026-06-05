@@ -38,8 +38,6 @@ def wish_user(text):
         speak("Good afternoon")
     else:
         speak("Good evening \n I am your virtual assistence ")
-    
-
 
 
 while True:
